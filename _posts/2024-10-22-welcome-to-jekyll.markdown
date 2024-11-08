@@ -1,29 +1,38 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Recorrido de la Palmas"
 date:   2024-10-22 10:10:53 +0200
-categories: jekyll update
+author: "Rodrigo Gonzalez"
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+# Recorrido de Las Palmas en la Liga Española
 
-Jekyll requires blog post files to be named according to the following format:
+La **Unión Deportiva Las Palmas** es un club de fútbol español con sede en Las Palmas de Gran Canaria. A lo largo de su historia, ha tenido un recorrido notable en la **Liga Española**, destacándose en varias temporadas y enfrentando diversos desafíos. A continuación, se presenta un resumen de su trayectoria en la liga.
 
-`YEAR-MONTH-DAY-title.MARKUP`
+## Historia y Fundaciones
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+- **Fundación**: Las Palmas fue fundado en 1949, y desde entonces ha sido un pilar del fútbol canario.
+- **Primeros Años**: El club tuvo un inicio modesto, pero rápidamente se estableció en la Primera División.
 
-Jekyll also offers powerful support for code snippets:
+## Éxitos en la Liga
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+- **Mejores Temporadas**: Las Palmas ha tenido varias temporadas destacadas, incluyendo su participación en competiciones europeas.
+- **Ascensos y Descensos**: A lo largo de su historia, el club ha experimentado ascensos y descensos, reflejando la competitividad de la liga.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+## Jugadores Destacados
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+- **Leyendas del Club**: A lo largo de los años, Las Palmas ha visto a muchos jugadores talentosos que han dejado huella en el club y en la liga.
+- **Aportaciones Recientes**: En las últimas temporadas, nuevos talentos han emergido, contribuyendo al estilo de juego del equipo.
+
+## Estadio y Afición
+
+- **Estadio Gran Canaria**: El hogar de Las Palmas, donde los aficionados se reúnen para apoyar al equipo.
+- **Afición**: La base de seguidores del club es apasionada y leal, creando un ambiente vibrante en cada partido.
+
+## Desafíos Recientes
+
+- **Competitividad**: Enfrentar a equipos con mayores recursos ha sido un desafío constante.
+- **Objetivos Futuros**: Las Palmas busca consolidarse en la Primera División y aspirar a competiciones europeas nuevamente.
+
+## Conclusión
+
+El recorrido de Las Palmas en la Liga Española es un testimonio de la perseverancia y la pasión por el fútbol en las Islas Canarias. Con una rica historia y un futuro prometedor, el club continúa siendo un símbolo del deporte en la región.
