@@ -5,7 +5,7 @@ date: 2024-11-08
 author: "Rodrigo Gonzalez"
 ---
  
-## Introducción a la Asignatura de Seguridad y Alta Disponibilidad (SAD)
+## Seguridad y Alta Disponibilidad (SAD)
  
 La asignatura **Seguridad y Alta Disponibilidad (SAD)** es clave para quienes desean trabajar en entornos de redes y sistemas donde la seguridad y la fiabilidad son fundamentales. Esta asignatura se centra en proteger los sistemas informáticos y garantizar la continuidad de los servicios, un conjunto de habilidades esencial en el mundo actual, donde las amenazas cibernéticas y las necesidades de alta disponibilidad están en constante crecimiento.
  
